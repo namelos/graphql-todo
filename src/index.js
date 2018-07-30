@@ -2,7 +2,7 @@ import React from 'react'
 import { render } from 'react-dom'
 import ApolloClient from 'apollo-boost'
 import { ApolloProvider } from 'react-apollo'
-import { TodoApp } from './Todo'
+import { TodoApp } from './TodoApp'
 
 const client = new ApolloClient({ uri: '/api' })
 
