@@ -16,4 +16,7 @@ npm start
 Back-end locates in `server.mjs`.
 Front-end locates in `src` directory.
 
+Application runs at [http://localhost:4000](http://localhost:4000)
+API playground runs at [http://localhost:4000/api](http://localhost:4000/api)
+
 Have fun!
